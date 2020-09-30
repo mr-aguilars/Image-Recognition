@@ -1,0 +1,20 @@
+eagle.jpg
+bald_eagle  :  99.75320100784302
+kite  :  0.07033270667307079
+great_grey_owl  :  0.06050484371371567
+black_grouse  :  0.05949219921603799
+snowmobile  :  0.009729104931466281
+
+newyorkcity.jpg
+fountain  :  76.08827352523804
+ear  :  12.886831164360046
+corn  :  7.564688473939896
+castle  :  0.5909777246415615
+breakwater  :  0.4976545926183462
+
+sanfrancisco.jpg
+pier  :  72.05262184143066
+suspension_bridge  :  23.476406931877136
+steel_arch_bridge  :  2.196044661104679
+container_ship  :  0.8509335108101368
+crane  :  0.4294931422919035
